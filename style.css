@@ -4,8 +4,6 @@
     scroll-behavior: smooth;
     
 }
-
-
 @media screen and (max-width:700px) {
     
     .full{
@@ -14,7 +12,6 @@
         grid-template: 
         "side  head head"
         "side main main"
-        ;
     }
     .titles{
         padding: 5px;
@@ -94,7 +91,7 @@
     
 }
        
-     media screen at min-width:701  max-width:900                   */
+     media screen at min-width:701  max-width:900  
 
      @media screen and (min-width:701px) and (max-width:900px) {
          
